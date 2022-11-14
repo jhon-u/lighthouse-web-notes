@@ -1,1 +1,4 @@
 # Jhon's Notes
+## Summary
+
+This repository contains all of the notes taken by [Jhon](https://github.com/jhon-u) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
